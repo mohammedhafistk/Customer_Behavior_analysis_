@@ -9,9 +9,9 @@ End-to-end customer shopping behavior analysis using Python, SQL, and Power BI ‚
 - Build an interactive Power BI dashboard so non-technical stakeholders can explore the same insights without writing code.
 - Translate findings into concrete business recommendations around subscriptions, discounting, and customer retention.
 
-##Data Set
+##  Data set
 
-- <a href="https://github.com/mohammedhafistk/Customer_Behavior_analysis_/blob/main/customer_shopping_behavior.csv>Dataset</a> 
+- <a href="https://github.com/mohammedhafistk/Customer_Behavior_analysis_/blob/main/customer_shopping_behavior.csv">Dataset</a> 
 
 ## ‚ùì KPI / Business Questions
 
