@@ -9,7 +9,7 @@ End-to-end customer shopping behavior analysis using Python, SQL, and Power BI â
 - Build an interactive Power BI dashboard so non-technical stakeholders can explore the same insights without writing code.
 - Translate findings into concrete business recommendations around subscriptions, discounting, and customer retention.
 
-##  Data set
+##  Dataset
 
 - <a href="https://github.com/mohammedhafistk/Customer_Behavior_analysis_/blob/main/customer_shopping_behavior.csv">Dataset</a> 
 
@@ -42,8 +42,9 @@ End-to-end customer shopping behavior analysis using Python, SQL, and Power BI â
 ### 3. Visualization (Power BI)
 - Built a single-page interactive dashboard with KPI cards, a subscription-status donut chart, category and age-group breakdowns, and slicers for gender, category, shipping type, and subscription status.
 
+## Dashboard
 
-- <a href=">view Dashboard</a>
+- <a href="https://github.com/mohammedhafistk/Customer_Behavior_analysis_/blob/main/customer_behavior_dashboard_project.pbix">view Dashboard</a>
 
 ## ðŸ’¡ Insights
 
